@@ -1,0 +1,2 @@
+bitcoin.node.url=http://127.0.0.1:18332
+bitcoin.zmq.url=tcp://127.0.0.1:28333
